@@ -1,7 +1,7 @@
 // Initialize your app
 var $$ = Dom7;
 var myApp = new Framework7({
-	modalTitle: 'condlive',
+	modalTitle: 'calendario',
 	material: true,
 	cache:false
 });
